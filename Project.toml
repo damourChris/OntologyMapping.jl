@@ -1,7 +1,7 @@
 name = "OntologyMapping"
 uuid = "334f4c7f-84a2-4aae-81dd-4d12ececaed7"
 authors = ["Chris Damour"]
-version = "1.0.0-DEV"
+version = "1.0.0"
 
 [deps]
 ExpressionData = "479be80e-0d6f-4501-bee0-9ae8a09d31d3"
