@@ -3,6 +3,11 @@ uuid = "334f4c7f-84a2-4aae-81dd-4d12ececaed7"
 authors = ["Chris Damour"]
 version = "1.0.0-DEV"
 
+[deps]
+ExpressionData = "479be80e-0d6f-4501-bee0-9ae8a09d31d3"
+OntologyLookup = "3c35c355-0acb-4572-93be-ae4d2e4cf8bf"
+RCall = "6f49c342-dc21-5d91-9882-a32aef131414"
+
 [compat]
 julia = "1.6.7"
 
