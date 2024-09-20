@@ -1,6 +1,8 @@
 using OntologyMapping
 using Test
+using TestItems
+using TestItemRunner
 
-@testset "OntologyMapping.jl" begin
-    # Write your tests here.
-end
+include("setup.jl")
+
+@run_packages_test
