@@ -9,6 +9,7 @@ OntologyLookup = "3c35c355-0acb-4572-93be-ae4d2e4cf8bf"
 RCall = "6f49c342-dc21-5d91-9882-a32aef131414"
 
 [compat]
+RCall = "0.14"
 julia = "1.6.7"
 
 [extras]
